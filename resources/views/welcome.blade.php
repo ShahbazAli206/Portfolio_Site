@@ -19,8 +19,8 @@
         <div style="width: 100%; height: 100%; background: linear-gradient(105deg, #300109 0%, #571216 17%, #942B2B 48%, #DB5D28 100%), linear-gradient(155deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0) 100%), linear-gradient(100deg, rgba(220, 93, 40, 0.20) 0%, rgba(221, 94, 40, 0.20) 100%), linear-gradient(100deg, rgba(220, 94, 40, 0.20) 0%, rgba(217, 91, 41, 0.20) 36%, rgba(220, 94, 40, 0.20) 100%); justify-content: center; align-items: center; display: inline-flex">
             <div style="flex: 1 1 0; align-self: stretch; padding-bottom: 107.10px; padding-left: 120px; padding-right: 120px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 75.10px; display: inline-flex">
                 <div style="width: 1680px; height: 111px; position: relative; border-bottom: 0.50px rgba(255, 255, 255, 0.40) solid; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
-                    <div style="width: 680px; height: 57px; position: relative"></div>
-                    <div style="width: 1659px; justify-content: space-between; align-items: center; gap: 59px; display: inline-flex">
+                    <div style="width: 88%; background-color:#4861FC; height: 57px; position: relative"></div>
+                    <div style="width: 90%; justify-content: space-between; align-items: center; gap: 59px; display: inline-flex">
                         <div style="height: 50px; justify-content: space-between; align-items: flex-start; gap: 84px; display: flex">
                             <div style="justify-content: flex-start; align-items: center; gap: 24px; display: flex">
                                 <img src="{{ asset('Frame 19.svg') }}" alt="Logo">
